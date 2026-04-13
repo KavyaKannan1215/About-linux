@@ -1,0 +1,20 @@
+Linux Examples
+
+Example 1: Create a file
+
+touch file.txt  
+
+
+Example 2: Copy a file
+
+cp file.txt backup.txt
+
+
+Example 3: Check current directory
+
+pwd
+
+
+Example 4: List files
+
+ls
